@@ -1,1 +1,1 @@
-# Diabetes_prediction
+# Diabetes_prediction on PIMA Indian Dataset
